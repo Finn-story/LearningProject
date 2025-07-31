@@ -1,4 +1,5 @@
 ##### this is a test file for git and github learning.
+
 > git add -A
 
 > git commit -m "first commit"
@@ -8,7 +9,8 @@
 > git reset HEAD^1(after commit)
 
 ##### branch
-> git checkout -b <branchname> (create a new branch based on current branch)
+> git checkout -b <branchname> 
+(create a new branch based on current branch)
 
 > git checkout <branchname> (go to the branch)
 
@@ -24,5 +26,7 @@
 > git pull
 
 > git push
+
 push after pull
+
 we can use vscode and extension gitlens to make it work.
