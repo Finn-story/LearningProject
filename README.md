@@ -11,6 +11,8 @@ this is a test file for git and github learning.
 branch
 > git checkout -b <branchname> (create a new branch based on current branch)
 
+> git checkout <branchname> (goto the branch)
+
 > git branch(list all branches)
 
 > 
