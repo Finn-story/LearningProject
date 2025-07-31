@@ -24,4 +24,5 @@
 > git pull
 
 > git push
+push after pull
 we can use vscode and extension gitlens to make it work.
