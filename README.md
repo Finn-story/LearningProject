@@ -20,3 +20,7 @@ branch
 > git branch -D <branchname>
 
 > git merge --abort (abandon this merge)
+
+> git pull
+
+> git push
