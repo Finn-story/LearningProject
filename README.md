@@ -15,4 +15,6 @@ branch
 
 > git branch(list all branches)
 
-> 
+> git merge <branchname>
+
+> git branch -D <branchname>
