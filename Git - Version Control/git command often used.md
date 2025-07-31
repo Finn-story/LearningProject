@@ -1,5 +1,4 @@
-this is a test file for git and github learning.
-
+##### this is a test file for git and github learning.
 > git add -A
 
 > git commit -m "first commit"
@@ -8,10 +7,10 @@ this is a test file for git and github learning.
 
 > git reset HEAD^1(after commit)
 
-branch
+##### branch
 > git checkout -b <branchname> (create a new branch based on current branch)
 
-> git checkout <branchname> (goto the branch)
+> git checkout <branchname> (go to the branch)
 
 > git branch(list all branches)
 
@@ -21,6 +20,8 @@ branch
 
 > git merge --abort (abandon this merge)
 
+##### git & github
 > git pull
 
 > git push
+we can use vscode and extension gitlens to make it work.
