@@ -1,5 +1,7 @@
 ##### this is a test file for git and github learning.
 
+> git init -b -main
+
 > git add -A
 
 > git commit -m "first commit"
