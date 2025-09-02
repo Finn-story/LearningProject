@@ -1,2 +1,3 @@
 # 对练习中cpp文件所产生的可执行文件untrack
 *.exe
+*.pdf
